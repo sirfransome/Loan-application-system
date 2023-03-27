@@ -1,0 +1,6 @@
+*.sql
+*.env
+*.ipynb
+.ipynb_checkpoints
+test.py
+
